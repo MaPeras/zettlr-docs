@@ -59,6 +59,9 @@ To correct a word, simply right-click it and select a suggestion from the contex
 
 Are you writing bilingual? No problem! Simply load all dictionaries that you potentially write text in to check against all languages at once. Just remember that dictionaries can use up a lot of memory, so if you load too many, it may slow down the application.
 
+If you want to add a .dic-file with multiple entries to your dictionary just search for your user.dic file and add entries with copy/paste in your preferred plain text editor. 
+> **file path to your dic file**: On Linux/Ubuntu search for ~/.config/Zettlr ; on Mac OSX search for Library/Applications/Zettlr
+
 > **Tip**: To disable the spellchecker completely, simply uncheck all dictionaries in the preferences.
 
 ## Working with footnotes
